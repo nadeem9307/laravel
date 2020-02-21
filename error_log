@@ -1,0 +1,4 @@
+[10-Jan-2020 10:25:53 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\FrontController::validateZip() in /home/owhfxyc0xtzr/public_html/app/Http/Controllers/FrontController.php on line 154
+[28-Jan-2020 12:47:22 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 115359744 bytes) in /home/owhfxyc0xtzr/public_html/v2/storage/framework/views/d00977702cb9cf6b6b2ce7340585b548d4175583.php on line 251
+[28-Jan-2020 12:47:27 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 117456896 bytes) in /home/owhfxyc0xtzr/public_html/v2/storage/framework/views/d00977702cb9cf6b6b2ce7340585b548d4175583.php on line 247
+[28-Jan-2020 12:49:19 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 117456896 bytes) in /home/owhfxyc0xtzr/public_html/v2/storage/framework/views/d00977702cb9cf6b6b2ce7340585b548d4175583.php on line 247
